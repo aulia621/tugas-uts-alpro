@@ -46,6 +46,3 @@ total_bulan = total_kwh_hari * 30
 
 print(f"total dalam satu hari adalah: {total_kwh_hari:,.3f} ")
 print(f"total dalam satu bulan adalah:  {total_bulan:,.3f}" )
-
-if __name__ == "__program_utama__"
-program_utama()
